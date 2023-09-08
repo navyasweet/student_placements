@@ -12,8 +12,8 @@
 
 
 ## Demo
-Link: [(https://img.shields.io/badge/Streamlit%20App-Check%20it%20out-brightgreen)][![Streamlit App](https://img.shields.io/badge/Streamlit%20App-Check%20it%20out-brightgreen)]([http://localhost:8501/#student-placement-year-of-graduation-predictor])
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20App-Check%20it%20out-brightgreen)](http://localhost:8501/#placement-prediction-app])
+![image](https://github.com/navyasweet/student_placements/assets/134292286/7abd5d23-7897-44c7-ada1-c15a2727590f)
+
 
 
 ## Overview
